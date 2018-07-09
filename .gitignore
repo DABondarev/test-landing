@@ -1,0 +1,10 @@
+build
+nodu_modules
+npm-debug.log
+
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
